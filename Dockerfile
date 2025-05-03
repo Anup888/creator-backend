@@ -16,4 +16,4 @@ ENV PORT=8080
 EXPOSE 8080
 
 # Start the app
-CMD ["node", "index.js"]
+CMD ["node", "src/app.js"]
